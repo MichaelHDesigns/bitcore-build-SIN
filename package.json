@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/SINOVATEblockchain/bitcore-build-SIN"
+    "url": "git://github.com/devilking6105/bitcore-build-SIN"
   },
   "keywords": [
     "bitcore"
@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/SINOVATEblockchain/bitcore-build-SIN/issues"
   },
-  "homepage": "https://github.com/SINOVATEblockchain/bitcore-build-SIN",
+  "homepage": "https://github.com/devilking6105/bitcore-build-SIN",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
