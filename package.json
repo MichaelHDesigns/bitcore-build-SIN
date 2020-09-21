@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MichaeHDesigns/bitcore-build-SIN"
+    "url": "git://github.com/MichaelHDesigns/bitcore-build-SIN"
   },
   "keywords": [
     "bitcore"
@@ -41,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MichaeHDesigns/bitcore-build-SIN/issues"
+    "url": "https://github.com/MichaelHDesigns/bitcore-build-SIN/issues"
   },
-  "homepage": "https://github.com/MichaeHDesigns/bitcore-build-SIN",
+  "homepage": "https://github.com/MichaelHDesigns/bitcore-build-SIN",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
